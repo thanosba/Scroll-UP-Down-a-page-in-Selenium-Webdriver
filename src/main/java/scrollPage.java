@@ -42,8 +42,4 @@ public class scrollPage {
         driver.quit();
         System.out.println("Scroll UP or Down a page in Selenium Webdriver");
     }
-
-
-
-
 }
